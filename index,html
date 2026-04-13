@@ -39,6 +39,6 @@
   <div class="card" data-image="img8"><img src="https://vscodeedu.com/logic.png"></div>
 </div>
 </main>
-
+<script src="scripts/script.js"></script>
     </body>
 </html>
