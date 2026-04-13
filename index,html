@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Memory Matrix: Icons of Computing</title>
+        <link rel="stylesheet" href="styles/styles.css">
+        
+    </head>
+    <body>
+<div id="confetti-container"></div>
+<header>
+    <h1>Memory Matrix</h1>
+    <h2>Icons of Computing</h2>
+    <p style="padding-top: 15px; font-size: .8em;">Made with ❤️ in <a href="https://vscodeedu.com">Visual Studio Code for Education</a></p>
+    <div id="timer" aria-label="Game timer"></div>
+    <div id="match-info" aria-label="Match information"></div>
+</header>
+<main>
+    <p>In this game, click on two squares to find matching symbols.<br>Try to find all the matching pairs in the grid. Good luck!</p>
+    <div id="congratulations">Congratulations! You found all the pairs!</div>        
+    <button id="play-again" style="display: none;">Play Again</button>
+    
+</main>
+
+    </body>
+</html>
