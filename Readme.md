@@ -1,6 +1,6 @@
 # MemoryMatrix
 
-A lightweight browser memory game built with **HTML**, **CSS**, and **JavaScript**. This README is ready to copy and paste into your repository root as `README.md`.
+A lightweight browser memory game built with **HTML**, **CSS**, and **JavaScript**. 
 
 ---
 
