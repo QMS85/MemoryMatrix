@@ -15,5 +15,16 @@ cards.forEach(card => {
 });
 
 function flipCard() {
-    
+        if (lockBoard || this === firstCard) return; 
+
+    this.classList.add('flipped');
+
+    if (!hasFlippedCard) {
+        hasFlippedCard = true;
+        firstCard = this;
+    } else {
+        secondCard = this;
+
+    }
+
 }
