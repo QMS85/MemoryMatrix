@@ -63,4 +63,11 @@ p a {
     display: none;
 }
 
+.card.flipped {
+    transform: rotateY(180deg);
+    background-image: unset;
+}
 
+.card.flipped img {
+    display: block;
+}
