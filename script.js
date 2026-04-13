@@ -23,6 +23,9 @@ function flipCard() {
         hasFlippedCard = true;
         firstCard = this;
     } else {
+      
+checkForMatch();
+
         secondCard = this;
 
     }
