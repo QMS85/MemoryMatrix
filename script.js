@@ -40,3 +40,4 @@ function shuffle() {
 }
 shuffle();
 
+//ADD THE REST OF THE JAVASCRIPT CODE BELOW//
